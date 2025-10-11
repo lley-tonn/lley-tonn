@@ -23,6 +23,11 @@
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=lley-tonn&show_icons=true&theme=radical)
 
 ---
+### 🖥️ Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lley-tonn&layout=compact&theme=radical)
+
+---
 
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agenorwoth-lleyton-adrian-352209344)
