@@ -21,7 +21,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lley-tonn&show_icons=true&hide_border=true&theme=transparent&icon_color=9F2BFF&title_color=9F2BFF" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lley-tonn&show_icons=true&hide_border=true&theme=transparent&icon_color=9F2BFF&title_color=9F2BFF&cache_seconds=7200" height="160" />
 </p>
 
 
@@ -29,7 +29,7 @@
 
 ## 🖥️ Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lley-tonn&layout=compact&theme=radical&hide_border=true&cache_seconds=1"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lley-tonn&layout=compact&theme=radical&hide_border=true&cache_seconds=7200"/>
 </p>
 
 
