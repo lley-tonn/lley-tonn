@@ -45,7 +45,7 @@
 
 ## 🔗 Connect With Me 
 <p align="center">
-  <a href="https://linkedin.com/in/agenorwoth-lleyton-adrian-352209344"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+  <a href="https://www.linkedin.com/in/lley-tonn"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
   <a href="https://twitter.com/lley_tonn"><img src="https://skillicons.dev/icons?i=twitter" height="50"/></a>
   <a href="mailto:lagenorwoth@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
   <a href="https://instagram.com/lley_tonn"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
