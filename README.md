@@ -10,7 +10,7 @@
 - 🛠 Working on real-world projects with **Swift & JavaScript**
 - 👯 Open to fun collaborations & experiments
 - 🧠 I go into “tunnel vision mode” when debugging
-- 💼 Always chasing growth — and the bag 😄
+- 💼 Always chasing growth and the bag 😄
 
 
 ## 🛠️ Tech Stack
