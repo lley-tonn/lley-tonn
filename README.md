@@ -6,7 +6,7 @@
 
 
 ## 🚀 About Me
-- 🌱 Currently exploring **AI, ML & Python**
+
 - 🛠 Working on real-world projects with **Swift & JavaScript**
 - 👯 Open to fun collaborations & experiments
 - 🧠 I go into “tunnel vision mode” when debugging
