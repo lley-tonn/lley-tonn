@@ -1,62 +1,107 @@
-## 👋 Hey, I’m Lleyton!
+# Hi, I'm Lleyton 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9F2BFF&size=28&center=true&vCenter=true&width=550&lines=Software+Developer;AI%2FML+Explorer;Swift+%7C+Python+%7C+JavaScript;Always+Building+%26+Improving+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=500&size=24&pause=3000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%26+Machine+Learning+Explorer;Swift+•+Python+•+JavaScript;Designing+Products+People+Love" />
 </p>
 
-
-## 🚀 About Me
-
-- 🛠 Working on real-world projects with **Swift & JavaScript**
-- 👯 Open to fun collaborations & experiments
-- 🧠 I go into “tunnel vision mode” when debugging
-- 💼 Always chasing growth and the bag 😄
-
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,swift,javascript,react,nodejs,typescript,html,css,kotlin,git,github" />
-</p>
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=lley-tonn&show_icons=true&theme=radical&hide_border=true"
-    height="160"
-  />
-</p>
-
-
-
-
-## 🖥️ Most Used Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lley-tonn&layout=compact&theme=radical&hide_border=true"
-  />
-</p>
-
-
-
-
-## 🔗 Connect With Me 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lley-tonn"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-  <a href="https://twitter.com/lley_tonn"><img src="https://skillicons.dev/icons?i=twitter" height="50"/></a>
-  <a href="mailto:lagenorwoth@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
-  <a href="https://instagram.com/lley_tonn"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
-  <a href="https://lagenorwoth.site"><img src="https://skillicons.dev/icons?i=cloudflare" height="50"/></a>
-</p>
 <br>
 
+## About
 
-## 🚀 Fun Facts
-- 🎧 Music addict
-- 🎬 Movie & series enjoyer
-- ⚽ Football lover
-- 💼 Always open to cool opportunities & collaborations
+I'm a software developer who enjoys building products that combine thoughtful design with modern technology.
 
+My interests span across software engineering, artificial intelligence, machine learning, computer vision, automation, and product design. I enjoy solving complex problems, exploring new technologies, and creating experiences that feel simple, intuitive, and fast.
+
+I believe great software shouldn't draw attention to itself—it should simply help people accomplish more.
+
+---
+
+## Interests
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 👁️ Computer Vision
+- 💬 Large Language Models (LLMs)
+- 🍎 Native Apple Development
+- 🌐 Full-Stack Web Development
+- 📱 Mobile App Development
+- 🎨 UI/UX Design
+- ✨ Product Design
+- ⚡ Automation & Productivity
+- 🔍 Human-Computer Interaction
+- 🚀 Building Digital Products
+- 🌍 Open Source
+
+---
+
+## Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=swift,python,javascript,typescript,react,nextjs,nodejs,html,css,tailwind,supabase,firebase,mongodb,postgres,git,github,docker,figma,vscode" />
+
+</p>
+
+---
+
+## What I Enjoy Working On
+
+- Native Applications
+- AI-Powered Software
+- Intelligent Automation
+- Developer Tools
+- Productivity Apps
+- Modern Web Applications
+- APIs & Backend Systems
+- Clean User Interfaces
+- Performance Optimization
+- Scalable Software Architecture
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lley-tonn&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lley-tonn&layout=compact&hide_border=true&theme=transparent"/>
+
+</p>
+
+---
+
+## Outside of Code
+
+- 🎧 Music
+- 🎬 Movies & Series
+- ⚽ Football
+- 📚 Learning New Technologies
+- 💡 Exploring Startup Ideas
+- ✈️ Travel & Adventure
+
+---
+
+## Connect
+
+<p align="center">
+
+<a href="https://lagenorwoth.site">Portfolio</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/lley-tonn">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://twitter.com/lley_tonn">X</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:lagenorwoth@gmail.com">Email</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://instagram.com/lley_tonn">Instagram</a>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<i>Building software that feels effortless.</i>
+
+</p>
