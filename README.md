@@ -1,4 +1,4 @@
-# Hi, I'm Lleyton 👋
+# Hi, I'm Lleyton 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=500&size=24&pause=3000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%26+Machine+Learning+Explorer;Swift+•+Python+•+JavaScript;Designing+Products+People+Love" />
@@ -18,19 +18,19 @@ I believe great software shouldn't draw attention to itself—it should simply h
 
 ## Interests
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 👁️ Computer Vision
-- 💬 Large Language Models (LLMs)
-- 🍎 Native Apple Development
-- 🌐 Full-Stack Web Development
-- 📱 Mobile App Development
-- 🎨 UI/UX Design
-- ✨ Product Design
-- ⚡ Automation & Productivity
-- 🔍 Human-Computer Interaction
-- 🚀 Building Digital Products
-- 🌍 Open Source
+-  Artificial Intelligence
+-  Machine Learning
+-  Computer Vision
+-  Large Language Models (LLMs)
+-  Native Apple Development
+-  Full-Stack Web Development
+-  Mobile App Development
+-  UI/UX Design
+-  Product Design
+-  Automation & Productivity
+-  Human-Computer Interaction
+-  Building Digital Products
+-  Open Source
 
 ---
 
@@ -73,12 +73,12 @@ I believe great software shouldn't draw attention to itself—it should simply h
 
 ## Outside of Code
 
-- 🎧 Music
-- 🎬 Movies & Series
-- ⚽ Football
-- 📚 Learning New Technologies
-- 💡 Exploring Startup Ideas
-- ✈️ Travel & Adventure
+-  Music
+-  Movies & Series
+-  Football
+-  Learning New Technologies
+-  Exploring Startup Ideas
+-  Travel & Adventure
 
 ---
 
